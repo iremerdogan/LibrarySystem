@@ -1,0 +1,15 @@
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\LibrarySystemSolution.DataAccessLayer.dll.config
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\LibrarySystemSolution.DataAccessLayer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\LibrarySystemSolution.DataAccessLayer.pdb
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\LibrarySystemSolution.EntityLayer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\LibrarySystemSolution.EntityLayer.pdb
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\LibrarySystemSolution.EntityLayer.dll.config
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\obj\Debug\LibrarySystemSolution.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\obj\Debug\LibrarySystemSolution.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\obj\Debug\LibraryS.7A968645.Up2Date
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\obj\Debug\LibrarySystemSolution.DataAccessLayer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.DataAccessLayer\obj\Debug\LibrarySystemSolution.DataAccessLayer.pdb

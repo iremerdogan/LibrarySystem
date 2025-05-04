@@ -1,0 +1,15 @@
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.BusinessLayer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.BusinessLayer.pdb
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.DataAccessLayer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.EntityLayer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.DataAccessLayer.pdb
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.DataAccessLayer.dll.config
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.EntityLayer.pdb
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\bin\Debug\LibrarySystemSolution.EntityLayer.dll.config
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\obj\Debug\LibrarySystemSolution.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\obj\Debug\LibrarySystemSolution.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\obj\Debug\LibraryS.6628C09F.Up2Date
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\obj\Debug\LibrarySystemSolution.BusinessLayer.dll
+C:\Users\ireem\source\repos\LibrarySystemSolution.BusinessLayer\obj\Debug\LibrarySystemSolution.BusinessLayer.pdb
